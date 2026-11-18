@@ -141,6 +141,14 @@
 </picture>
 </p>
 
+<h2>🌐 Socials</h2>
+
+<p>
+<a href="https://linkedin.com/in/anshikaraj01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/anshikaraj08"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:anshikaraj538@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
 <hr />
 
 <table width="100%">
