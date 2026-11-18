@@ -1,21 +1,19 @@
-<h1 align="center">Hey 🧑‍💻 I’m Anshika Raj</h1>
-
-<p align="center">
-<img src="./kirokaze-desk.gif" width="100%" alt="Pixel art of a developer working at a desk at night" />
-</p>
+<h1 align="center">Hey 👋, I’m Anshika Raj</h1>
 
 <div align="center">
 
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · anshikaraj08</sub></p>
-<h1>Anshika Raj</h1>
+<p><sub>ABOUT ME · anshikaraj08</sub></p>
 <h2>Backend &amp; Full-stack engineer</h2>
 <p>MERN · React Native · Agentic AI</p>
 <p><strong>● Ex-SDE Intern @ Explified Labs · Open to collaboration</strong></p>
-
-<p><a href="https://github.com/anshikaraj08">GitHub</a></p>
+<p>
+<a href="https://linkedin.com/in/anshikaraj01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/anshikaraj08"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:anshikaraj538@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 </td>
 <td width="36%" valign="middle" align="center">
 <img src="https://avatars.githubusercontent.com/u/152436670?v=4" width="180" alt="Anshika Raj GitHub avatar" />
@@ -28,13 +26,13 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Backend &amp; full-stack engineer · MERN · React Native · Agentic AI</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>27 repositories · Android app with 100+ users on Google Play</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>266 contributions · 318 LeetCode problems solved</p></td>
+<td width="33%" valign="top"><h3>🎯 Role fit</h3><p>Backend, full-stack and mobile roles where I own features end to end, from API to UI.</p></td>
+<td width="33%" valign="top"><h3>🚀 Shipped</h3><p>5+ Android apps, one with 100+ users on Google Play · 27 public repositories</p></td>
+<td width="33%" valign="top"><h3>📈 Momentum</h3><p>266 GitHub contributions · 318 LeetCode problems · LeetCode 200 Days Badge</p></td>
 </tr>
 </table>
 
-<p><sub>B.Tech CSE @ Lovely Professional University · CGPA 8.39 · Building useful software and sharing the work in public.</sub></p>
+<p><sub>Building useful software and sharing the work in public.</sub></p>
 
 <h2>Proof at a glance</h2>
 
@@ -66,8 +64,8 @@
 <tr>
 <td width="58%" valign="top">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=anshikaraj08&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F152436670%3Fv%3D4&repos=anshikaraj08%2Fbooking-management%2Canshikaraj08%2FAutomated-Code-Review-Board%2Canshikaraj08%2FCogniva---Ai-Bases-Cognitive-learning-Platform-For-Elderly-Dementia-Patients%2Canshikaraj08%2FDevCollab&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=anshikaraj08&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F152436670%3Fv%3D4&repos=anshikaraj08%2Fbooking-management%2Canshikaraj08%2FAutomated-Code-Review-Board%2Canshikaraj08%2FCogniva---Ai-Bases-Cognitive-learning-Platform-For-Elderly-Dementia-Patients%2Canshikaraj08%2FDevCollab&v=recruiter-projects-1&mode=dark" width="100%" alt="Anshika Raj selected projects" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=anshikaraj08&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F152436670%3Fv%3D4&repos=anshikaraj08%2Fbooking-management%2Canshikaraj08%2FAutomated-Code-Review-Board%2Canshikaraj08%2FDevCollab&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=anshikaraj08&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F152436670%3Fv%3D4&repos=anshikaraj08%2Fbooking-management%2Canshikaraj08%2FAutomated-Code-Review-Board%2Canshikaraj08%2FDevCollab&v=recruiter-projects-1&mode=dark" width="100%" alt="Anshika Raj selected projects" />
 </picture>
 </td>
 <td width="42%" valign="top">
@@ -81,9 +79,8 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/anshikaraj08/Automated-Code-Review-Board">Automated-Code-Review-Board</a></h3><p>A multi-agent LLM system of 6 agents that reviews Git diffs in parallel, cites the rule each issue breaks using RAG, and returns an approve or request-changes verdict with fix patches.</p><p><sub>Python · MS Agent Framework · Groq · Streamlit · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/anshikaraj08/Cogniva---Ai-Bases-Cognitive-learning-Platform-For-Elderly-Dementia-Patients">Cogniva---Ai-Bases-Cognitive-learning-Platform-For-Elderly-Dementia-Patients</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/anshikaraj08/DevCollab">DevCollab</a></h3><p>A real-time collaborative code editor with Yjs CRDTs, live cursors, role-based access, AI code review, a 4-language code runner and 190 automated tests.</p><p><sub>React · Node.js · Socket.IO · MongoDB · Redis · Docker · ⭐ 0</sub></p></td>
+<td width="50%" valign="top"><h3><a href="https://github.com/anshikaraj08/Automated-Code-Review-Board">Automated-Code-Review-Board</a></h3><p>A multi-agent LLM system of 6 agents that reviews Git diffs in parallel, cites the rule each issue breaks using RAG, and returns an approve or request-changes verdict with fix patches.</p><p><sub>Python · MS Agent Framework · Groq · Streamlit · ⭐ 0</sub></p></td>
+<td width="50%" valign="top"><h3><a href="https://github.com/anshikaraj08/DevCollab">DevCollab</a></h3><p>A real-time collaborative code editor with Yjs CRDTs, live cursors, role-based access, AI code review, a 4-language code runner and 190 automated tests.</p><p><sub>React · Node.js · Socket.IO · MongoDB · Redis · Docker · ⭐ 0</sub></p></td>
 </tr>
 </table>
 
@@ -126,9 +123,28 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Frontend &amp; Mobile</h3><p>React.js · React Native · Expo · Tailwind CSS · HTML · CSS</p></td>
-<td width="33%" valign="top"><h3>Backend &amp; Data</h3><p>Node.js · Express.js · REST · GraphQL · Socket.IO · MongoDB · PostgreSQL · MySQL · Redis · Prisma</p></td>
-<td width="33%" valign="top"><h3>AI &amp; DevOps</h3><p>Agentic AI · Multi-Agent Systems · RAG · LangChain · OpenAI · Claude · Groq · AWS · Docker</p></td>
+<td width="24%" valign="middle"><strong>Languages</strong></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=c,cpp,java,js,py&theme=dark" height="36" alt="Languages" /></td>
+</tr>
+<tr>
+<td width="24%" valign="middle"><strong>Frontend &amp; Mobile</strong></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,androidstudio&theme=dark" height="36" alt="Frontend &amp; Mobile" /><br /><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="22" alt="Expo" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white" height="22" alt="React Native" /></td>
+</tr>
+<tr>
+<td width="24%" valign="middle"><strong>Backend &amp; APIs</strong></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" height="36" alt="Backend &amp; APIs" /><br /><img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="22" alt="Socket.IO" /></td>
+</tr>
+<tr>
+<td width="24%" valign="middle"><strong>Databases</strong></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,prisma&theme=dark" height="36" alt="Databases" /></td>
+</tr>
+<tr>
+<td width="24%" valign="middle"><strong>DevOps &amp; Tools</strong></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman&theme=dark" height="36" alt="DevOps &amp; Tools" /></td>
+</tr>
+<tr>
+<td width="24%" valign="middle"><strong>AI &amp; Agents</strong></td>
+<td valign="middle"><img src="https://img.shields.io/badge/Agentic_AI-6E40C9?style=for-the-badge" height="22" alt="Agentic AI" /> <img src="https://img.shields.io/badge/Multi--Agent_Systems-8250DF?style=for-the-badge" height="22" alt="Multi--Agent Systems" /> <img src="https://img.shields.io/badge/RAG-0E7490?style=for-the-badge" height="22" alt="RAG" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="22" alt="LangChain" /> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" height="22" alt="Claude" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge" height="22" alt="OpenAI" /> <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" height="22" alt="Groq" /></td>
 </tr>
 </table>
 
@@ -141,20 +157,16 @@
 </picture>
 </p>
 
-<h2>🌐 Socials</h2>
-
-<p>
-<a href="https://linkedin.com/in/anshikaraj01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/anshikaraj08"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:anshikaraj538@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
 <hr />
 
 <table width="100%">
 <tr>
 <td width="62%" valign="middle"><h2>🤝 Open to collaboration</h2><p>Open to internships, SDE roles and open-source collaboration on MERN, React Native and agentic AI projects. Have an idea that needs another builder? Let’s build it together.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/anshikaraj08">GitHub</a></td>
+<td width="38%" valign="middle" align="right">
+<a href="https://linkedin.com/in/anshikaraj01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/anshikaraj08"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:anshikaraj538@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</td>
 </tr>
 </table>
 
