@@ -47,22 +47,6 @@
 </tr>
 </table>
 
-<h2>💼 Experience</h2>
-
-<table width="100%">
-<tr>
-<td width="100%" valign="top">
-<h3>Software Development Engineer Intern · Explified Labs</h3>
-<p><sub>Remote · May 2026 – June 2026</sub></p>
-<ul>
-<li>Developed <strong>5+ Android apps</strong> in React Native (Expo), including <strong>Odd One Out</strong>, a puzzle game with 75 levels, endless mode, daily challenges and streaks, reaching <strong>100+ users on Google Play</strong>.</li>
-<li>Built an <strong>offline-first global leaderboard</strong> that queues scores in AsyncStorage and syncs when back online, plus push notifications, sound effects and haptics.</li>
-<li>Engineered a <strong>post scheduler and two-way sync</strong> for BlogLift, a Shopify AI blogging and SEO app, using the Shopify Admin GraphQL API and Prisma, shipping 2,600+ lines across 28 files.</li>
-</ul>
-</td>
-</tr>
-</table>
-
 <h2>📊 GitHub Stats &amp; Trophies</h2>
 
 <table width="100%">
